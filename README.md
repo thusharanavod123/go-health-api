@@ -83,3 +83,6 @@ Required GitHub Secrets: To allow the pipeline to push the image, you must defin
 Secret Name,Value,Purpose
 DOCKER_USERNAME,Your Docker Hub Username.,Authentication for the registry.
 DOCKER_PASSWORD,Your Docker Hub Access Token.,Secure credential for pushing images.
+
+
+
